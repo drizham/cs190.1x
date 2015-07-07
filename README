@@ -6,3 +6,12 @@ Week 1:
 Lecture 1 provides a course overview and presents core machine learning and mathematical concepts.
 Lab 1 reviews lambda functions and introduces Python's scientific computing library (NumPy) to manipulate vectors and matrices.
 
+Week 2:
+Introduction to Apache Spark. Lab 2 includes a hands-on Spark tutorial and an exercise in which you will count the words in all of Shakespeare's plays. Note: Week 2 is identical to Week 2 of BerkeleyX CS100.1x; if you've completed Lab 1 of CS100.1x you can submit your completed notebook to receive credit for Lab 2 in this course.
+
+Week 3:
+Linear regression and distributed machine learning principles.
+Lecture 3: Topics include linear regression formulation and closed-form solution, distributed machine learning principles (related to computation, storage, and communication), gradient descent, quadratic features, grid search
+
+Lab 3:
+Millionsong Regression Pipeline. Develop an end-to-end linear regression pipeline to predict the release year of a song given a set of audio features. You will implement a gradient descent solver for linear regression, use Spark's machine learning library (MLlib) to train additional models, tune models via grid search, improve accuracy using quadratic features, and visualize various intermediate results to build intuition.
